@@ -1,5 +1,5 @@
 .:user id=user134;password=1qaz@WSX
-:h:\a.sql �N�令�ڵ��A��SQL
+:h:\a.sql 就改成我給你的SQL
 
 :osql -U user134 -P 1qaz@WSX -S [172.25.142.178] -d SOMTDB -i a.sql
 :osql -U user134 -P 1qaz@WSX -S [172.25.142.178] -d SOMTDB -i a.sql
